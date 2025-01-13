@@ -48,7 +48,7 @@
 ## 📥 **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DDoS-Wave.git
+   git clone https://github.com/vettrivel007/DDoS-Wave.git
    ```
 
 2. Navigate to DDos-Wave :
