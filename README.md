@@ -63,7 +63,7 @@
 
 4. Run the script:
    ```bash
-   python3  ddos_wave.py
+   sudo python3 ddos_wave.py
    ```
 
 ---
@@ -73,14 +73,20 @@
    ```bash
    python3 ddos_wave.py
    ```
+      **OR**
 
-2. **Enter the Target Details**:
+    **You need to run the script with superuser privileges using sudo**
+
+    ```bash
+    sudo python3 ddos_wave.py
+    ```
+3. **Enter the Target Details**:
    ```plaintext
    Enter the Target IP Address: <Target-IP>
    Enter the Target Port: <Target-Port>
    ```
 
-3. **Watch the Flood**:  
+4. **Watch the Flood**:  
    Packets will start flooding the target, displaying details like spoofed source IPs, source ports, and progress.  
    ```plaintext
    [+] Spoofed Source IP: 203.0.113.45
@@ -88,7 +94,7 @@
        [+] Packet #2 sent from 203.0.113.46:3457 to <Target-IP>:<Target-Port>
    ```
 
-4. **Stop Anytime**: Press `Ctrl+C` to stop the process and view the total packet count sent.
+5. **Stop Anytime**: Press `Ctrl+C` to stop the process and view the total packet count sent.
 
 ---
 
