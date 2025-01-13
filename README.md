@@ -121,7 +121,7 @@ Special thanks to the [Scapy](https://scapy.readthedocs.io/en/latest/) community
 
 Feel free to connect with me for questions, feedback, or contributions:
 
-- LinkedIn: VETTRIVEL U -> www.linkedin.com/in/vettrivel2006
+- LinkedIn: VETTRIVEL U -> https://www.linkedin.com/in/vettrivel2006
 - Email: uvettrivel007@gmail.com
 
 ---
